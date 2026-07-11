@@ -1,0 +1,6 @@
+{
+  "appId": "com.habla.languageapp",
+  "appName": "VamosApp",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
